@@ -1,0 +1,10 @@
+commit 8843c0537d8a68177ddd9517e42b48a42342fb05
+tree e31644249308dd5fc07c7ed5325c7201aa6466ca
+parent 72a34d1b4bc9a8f13d0547aec0c64bf8db446a6f
+author Tvillago <tvillago@espol.edu.ec> 2022-08-16 10:35:18 -0500
+committer Tvillago <tvillago@espol.edu.ec> 2022-08-16 10:35:18 -0500
+
+    cambio
+
+
+:100644 100644 1cea4188b0272594113e8f0786de00e55bf1c55b 7b4d270d93938a9697ef29f592dc4c857dcd3132 M	src/models/requerimiento.ts

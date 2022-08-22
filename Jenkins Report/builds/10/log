@@ -1,0 +1,253 @@
+Lanzada por el usuario [8mha:////4OZSxxFneUjZdmZMVVSWCSejz2jML6Bow9AMSQ3FHPzqAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyxEgZu/dLi1CL9xJTczDwAuVSDeMAAAAA=[0mTommy Villagomez Borja
+[8mha:////4FzsEvFoL63Kbg0x2sEtWuyLFI2Y6UkuaVFrpU3PB1/jAAAAoh+LCAAAAAAAAP9tjTEOwjAQBM8BClpKHuFItIiK1krDC0x8GCfWnbEdkooX8TX+gCESFVvtrLSa5wtWKcKBo5UdUu8otU4GP9jS5Mixv3geZcdn2TIl9igbHBs2eJyx4YwwR1SwULBGaj0nRzbDRnX6rmuvydanHMu2V1A5c4MHCFXMWcf8hSnC9jqYxPTz/BXAFEIGsfuclm8zQVqFvQAAAA==[0m[Pipeline] Start of Pipeline
+[8mha:////4M8ARJlTfRsCkJzig+Hek+e2L+e+tRka7eRK61B6aX1GAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycohUghExsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jduZBmjwAAAAA==[0m[Pipeline] node
+Running on [8mha:////4CNbLWs207Thwm9lSW/TGoYzLyb4B92mXLIPTk8H6YP5AAAAoR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyOEgZR/eT83ILSktQifY2k0sycEt3MPE19AG6eN5/KAAAA[0mJenkins  in C:\ProgramData\Jenkins\.jenkins\workspace\FrontPipeline
+[8mha:////4LL0yBkK3keFE4sjAUrrCtXdHt2MN070h7b4E8CViDFfAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gA0xsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jfoP95RwAAAAA==[0m[Pipeline] {
+[8mha:////4MtNGoHIJo7PIK/NQIjwkGcf7j81MkhlVNUykfkpuJ89AAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gQkxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jc09154wAAAAA==[0m[Pipeline] stage
+[8mha:////4EG7K8/XUKOA4f8NBi5XjGRoJgyuuS6I9tLfJgEPimzlAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0ggUxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jek7ggRwAAAAA==[0m[Pipeline] { (Checkout SCM)
+[8mha:////4NUuE+y/rhwVW7AO+6N1TEBCXQCAM6Gv/DakZUEO0KRkAAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTbaWGsbAmNJ0AWEZb8zwLrbuWJvJp3kLiJlZNMMm+a93rDOic4UbLcG+wdZu14DKOti0+U+lugiXu6ck2YKRguzSSpM+cFJRUDS1gDKwEbgzpQdmgLbIVXD9UGhba9lFS/o4DGdQM8gYlqLiqVL8wJdvexy4Q/z18BzLEA29ce4gfg7KmOvAAAAA==[0m[Pipeline] git
+The recommended git tool is: NONE
+No credentials specified
+ > C:\Program Files\Git\bin\git.exe rev-parse --resolve-git-dir C:\ProgramData\Jenkins\.jenkins\workspace\FrontPipeline\.git # timeout=10
+Fetching changes from the remote Git repository
+ > C:\Program Files\Git\bin\git.exe config remote.origin.url https://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@github.com/Tvillago/FrontBroadnet # timeout=10
+Fetching upstream changes from https://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@github.com/Tvillago/FrontBroadnet
+ > C:\Program Files\Git\bin\git.exe --version # timeout=10
+ > git --version # 'git version 2.32.0.windows.2'
+ > C:\Program Files\Git\bin\git.exe fetch --tags --force --progress -- https://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@github.com/Tvillago/FrontBroadnet +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > C:\Program Files\Git\bin\git.exe rev-parse "refs/remotes/origin/main^{commit}" # timeout=10
+Checking out Revision 8843c0537d8a68177ddd9517e42b48a42342fb05 (refs/remotes/origin/main)
+ > C:\Program Files\Git\bin\git.exe config core.sparsecheckout # timeout=10
+ > C:\Program Files\Git\bin\git.exe checkout -f 8843c0537d8a68177ddd9517e42b48a42342fb05 # timeout=10
+ > C:\Program Files\Git\bin\git.exe branch -a -v --no-abbrev # timeout=10
+ > C:\Program Files\Git\bin\git.exe branch -D main # timeout=10
+ > C:\Program Files\Git\bin\git.exe checkout -b main 8843c0537d8a68177ddd9517e42b48a42342fb05 # timeout=10
+Commit message: "cambio"
+ > C:\Program Files\Git\bin\git.exe rev-list --no-walk 72a34d1b4bc9a8f13d0547aec0c64bf8db446a6f # timeout=10
+[8mha:////4EnyjDnFjrtSflzpIf3PW1ORUu6yjbgYS9vccwLOMydMAAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTbGRNjZUtoPAGyiLDkfxZYdytP5NW8g8RNrJxkknnTvNcb1jnBiZLl3mDvMGvHYxhtXXyi1N8CTdzTlWvCTMFwaSZJnTkvKKkYWMIaWAnYGNSBskNbYCu8eqg2KLTtpaT6HQU0rhvgCUxUc1GpfGFOsLuPXSb8ef4KYI6xADvU7j9Dg2gqvAAAAA==[0m[Pipeline] }
+[8mha:////4NxlcdaPTjkaAxCa3mGurs1Zf1/qnIe/hw3lpbVWoHihAAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQRbWRhjZUtoPAGyiLDkfxZYdytP5NW8g8RNrJxkknnTvNcb1jnBiZLl3mDvMGvHYxhtXXyi1N8CTdzTlWvCTMFwaSZJnTkvKKkYWMIaWAnYGNSBskNbYCu8eqg2KLTtpaT6HQU0rhvgCUxUc1GpfGFOsLuPXSb8ef4KYI6xADvU7j9J+wGOvAAAAA==[0m[Pipeline] // stage
+[8mha:////4ICW/nrOSMYNuVKJfSqumnbuex1Z735RdTW29rmdkpoLAAAAph+LCAAAAAAAAP9tjTEOwjAQBM9BKWgpeYQDEh2iorXc8AITG+PEugv2haTiRXyNPxCIRMVWOyut5vmCMic4UPKycdgGzHWQXez91ORAqb1EGmRDZ1kTZopOajdosu44oyZ2MEcUsFCwdFhHygE9w0o15m6qaNBXJ07TtldQBHuDBwg1mdkk/sKYYH3tbSb8ef4KYOwYxI6h2G4+x/INtuQqUcEAAAA=[0m[Pipeline] stage
+[8mha:////4MrX3qo9p322Vx/mPrEuvcRKAjLtpdEXyHiBsE3VPkixAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+DOrAycoiUzoiJNerCCUITQtLo/zZJSSdOxNW4Ay2VmPBg2Zas93pDGQOcKBjuNHYWY2t570czJ54pdDdPmTu68pYwkte80bkhpc9rbShpWFUw2AjYamw9RYsmwU44+ZCVl2iqSwrzdhTArBrgCYWYyUmG9C1TgP19VJHwx/kLgKlPwOrDYvXyLD8BobDcwgAAAA==[0m[Pipeline] { (install node modules)
+[8mha:////4JXC43tVPtqZfUGCQh4I5PWDG7/m1txgwUejKhq0CBC6AAAAox+LCAAAAAAAAP9tjTESwiAURH/iWNhaeggysXWsbBkaT4AJIoT5nwCRVJ7Iq3kH0cxYucXOvm3e8wXrGOBIQTOrcDAYO8O8m3RZLFMYro4ys3RhHWEkp5hQWVCvTgsKSgqWVDWsOGwUdo6iQZ1gy628y8ZJ1M05hfIdONSmH+EBFS/mJEP6whxgd5v6SPjz/BXA7BPUbfupvX8DpQJrNb4AAAA=[0m[Pipeline] bat
+
+C:\ProgramData\Jenkins\.jenkins\workspace\FrontPipeline>npm i 
+
+> node-sass@4.13.0 install C:\ProgramData\Jenkins\.jenkins\workspace\FrontPipeline\node_modules\node-sass
+> node scripts/install.js
+
+Downloading binary from https://github.com/sass/node-sass/releases/download/v4.13.0/win32-x64-83_binding.node
+Cannot download "https://github.com/sass/node-sass/releases/download/v4.13.0/win32-x64-83_binding.node": 
+
+HTTP error 404 Not Found
+
+Hint: If github.com is not accessible in your location
+      try setting a proxy via HTTP_PROXY, e.g. 
+
+      export HTTP_PROXY=http://example.com:1234
+
+or configure npm proxy via
+
+      npm config set proxy http://example.com:8080
+
+> node-sass@4.13.0 postinstall C:\ProgramData\Jenkins\.jenkins\workspace\FrontPipeline\node_modules\node-sass
+> node scripts/build.js
+
+Building: C:\Program Files\nodejs\node.exe C:\ProgramData\Jenkins\.jenkins\workspace\FrontPipeline\node_modules\node-gyp\bin\node-gyp.js rebuild --verbose --libsass_ext= --libsass_cflags= --libsass_ldflags= --libsass_library=
+gyp info it worked if it ends with ok
+gyp verb cli [
+gyp verb cli   'C:\\Program Files\\nodejs\\node.exe',
+gyp verb cli   'C:\\ProgramData\\Jenkins\\.jenkins\\workspace\\FrontPipeline\\node_modules\\node-gyp\\bin\\node-gyp.js',
+gyp verb cli   'rebuild',
+gyp verb cli   '--verbose',
+gyp verb cli   '--libsass_ext=',
+gyp verb cli   '--libsass_cflags=',
+gyp verb cli   '--libsass_ldflags=',
+gyp verb cli   '--libsass_library='
+gyp verb cli ]
+gyp info using node-gyp@3.8.0
+gyp info using node@14.17.5 | win32 | x64
+gyp verb command rebuild []
+gyp verb command clean []
+gyp verb clean removing "build" directory
+gyp verb command configure []
+gyp verb check python checking for Python executable "python2" in the PATH
+gyp verb `which` failed Error: not found: python2
+gyp verb `which` failed     at getNotFoundError (C:\ProgramData\Jenkins\.jenkins\workspace\FrontPipeline\node_modules\which\which.js:13:12)
+gyp verb `which` failed     at F (C:\ProgramData\Jenkins\.jenkins\workspace\FrontPipeline\node_modules\which\which.js:68:19)
+gyp verb `which` failed     at E (C:\ProgramData\Jenkins\.jenkins\workspace\FrontPipeline\node_modules\which\which.js:80:29)
+gyp verb `which` failed     at C:\ProgramData\Jenkins\.jenkins\workspace\FrontPipeline\node_modules\which\which.js:89:16
+gyp verb `which` failed     at C:\ProgramData\Jenkins\.jenkins\workspace\FrontPipeline\node_modules\isexe\index.js:42:5
+gyp verb `which` failed     at C:\ProgramData\Jenkins\.jenkins\workspace\FrontPipeline\node_modules\isexe\windows.js:36:5
+gyp verb `which` failed     at FSReqCallback.oncomplete (fs.js:192:21)
+gyp verb `which` failed  python2 Error: not found: python2
+gyp verb `which` failed     at getNotFoundError (C:\ProgramData\Jenkins\.jenkins\workspace\FrontPipeline\node_modules\which\which.js:13:12)
+gyp verb `which` failed     at F (C:\ProgramData\Jenkins\.jenkins\workspace\FrontPipeline\node_modules\which\which.js:68:19)
+gyp verb `which` failed     at E (C:\ProgramData\Jenkins\.jenkins\workspace\FrontPipeline\node_modules\which\which.js:80:29)
+gyp verb `which` failed     at C:\ProgramData\Jenkins\.jenkins\workspace\FrontPipeline\node_modules\which\which.js:89:16
+gyp verb `which` failed     at C:\ProgramData\Jenkins\.jenkins\workspace\FrontPipeline\node_modules\isexe\index.js:42:5
+gyp verb `which` failed     at C:\ProgramData\Jenkins\.jenkins\workspace\FrontPipeline\node_modules\isexe\windows.js:36:5
+gyp verb `which` failed     at FSReqCallback.oncomplete (fs.js:192:21) {
+gyp verb `which` failed   code: 'ENOENT'
+gyp verb `which` failed }
+gyp verb check python checking for Python executable "python" in the PATH
+gyp verb `which` succeeded python C:\Users\Tommy\AppData\Local\Programs\Python\Python310\python.EXE
+gyp ERR! configure error 
+gyp ERR! stack Error: Command failed: C:\Users\Tommy\AppData\Local\Programs\Python\Python310\python.EXE -c import sys; print "%s.%s.%s" % sys.version_info[:3];
+gyp ERR! stack   File "<string>", line 1
+gyp ERR! stack     import sys; print "%s.%s.%s" % sys.version_info[:3];
+gyp ERR! stack                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+gyp ERR! stack SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+gyp ERR! stack 
+gyp ERR! stack     at ChildProcess.exithandler (child_process.js:390:12)
+gyp ERR! stack     at ChildProcess.emit (events.js:400:28)
+gyp ERR! stack     at maybeClose (internal/child_process.js:1055:16)
+gyp ERR! stack     at Process.ChildProcess._handle.onexit (internal/child_process.js:288:5)
+gyp ERR! System Windows_NT 10.0.19044
+gyp ERR! command "C:\\Program Files\\nodejs\\node.exe" "C:\\ProgramData\\Jenkins\\.jenkins\\workspace\\FrontPipeline\\node_modules\\node-gyp\\bin\\node-gyp.js" "rebuild" "--verbose" "--libsass_ext=" "--libsass_cflags=" "--libsass_ldflags=" "--libsass_library="
+gyp ERR! cwd C:\ProgramData\Jenkins\.jenkins\workspace\FrontPipeline\node_modules\node-sass
+gyp ERR! node -v v14.17.5
+gyp ERR! node-gyp -v v3.8.0
+gyp ERR! not ok 
+Build failed with error code: 1
+npm WARN angular-feather@6.1.0 requires a peer of @angular/common@^11.0.4 but none is installed. You must install peer dependencies yourself.
+npm WARN angular-feather@6.1.0 requires a peer of @angular/core@^11.0.4 but none is installed. You must install peer dependencies yourself.
+npm WARN angular-material@1.2.2 requires a peer of angular@^1.7.2 but none is installed. You must install peer dependencies yourself.
+npm WARN angular-material@1.2.2 requires a peer of angular-animate@^1.7.2 but none is installed. You must install peer dependencies yourself.
+npm WARN angular-material@1.2.2 requires a peer of angular-aria@^1.7.2 but none is installed. You must install peer dependencies yourself.
+npm WARN angular-material@1.2.2 requires a peer of angular-messages@^1.7.2 but none is installed. You must install peer dependencies yourself.
+npm WARN angular-material-data-table@0.10.10 requires a peer of angular@^1.4.0 but none is installed. You must install peer dependencies yourself.
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.11 (node_modules\webpack-dev-server\node_modules\fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.11: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.11 (node_modules\watchpack\node_modules\fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.11: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.9 (node_modules\@angular\compiler-cli\node_modules\fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.9: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.1.1 (node_modules\fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.1.1: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.1.2 (node_modules\chokidar\node_modules\fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.1.2: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: node-sass@4.13.0 (node_modules\node-sass):
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: node-sass@4.13.0 postinstall: `node scripts/build.js`
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: Exit status 1
+
+audited 1587 packages in 12.896s
+
+23 packages are looking for funding
+  run `npm fund` for details
+
+found 265 vulnerabilities (4 low, 97 moderate, 133 high, 31 critical)
+  run `npm audit fix` to fix them, or `npm audit` for details
+[8mha:////4IhnAJdx4jaIC/Vj8wBQ/0ayTRvOASUZvfv/a77wsAqnAAAAox+LCAAAAAAAAP9tjTESwiAURH/iWNhaeggyGUvHypah8QSYIEKY/wkQSeWJvJp3EM2MlVvs7NvmPV+wjgGOFDSzCgeDsTPMu0mXxTKF4eooM0sX1hFGcooJlQX16rSgoKRgSVXDisNGYecoGtQJttzKu2ycRN2cUyjfgUNt+hEeUPFiTjKkL8wBdrepj4Q/z18BzN4nqNv9p9o3geV5574AAAA=[0m[Pipeline] }
+[8mha:////4F4AszNVQ/wYVNsF19Jj68Qe+nVHYCCaYoCDTYRF/CYAAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOICEh2iSmu54QUmNsaJdWdsh6TiRXyNPxCIRMUWq51t5vmCZYpw5GixNdQ5So3D4Hs7LRw4dhfPA7Z8xoYpsTcozSBZm3pGydnAnKKEhYCVocZzcmQzrEWr7qryimx1ynH6DgJKp2/wgEJM5qxi/sIYYXPtdWL6ef4KYAwhQ7nbf2r7Bq/le42+AAAA[0m[Pipeline] // stage
+[8mha:////4LagSbsGt9EdDa9pEbn25yFCz+9DWufrUS1UqrHGLoL0AAAAph+LCAAAAAAAAP9tjTEOwjAQBM9BKWgpeYQjJKgQFa3lhheY2Bgn1l2wLyQVL+Jr/IFAJCq22llpNc8XlDnBgZKXjcM2YK6D7GLvpyYHSu0l0iAbOsuaMFN0UrtBk3XHGTWxgzmigIWCpcM6Ug7oGVaqMXdTRYO+OnGatr2CItgbPECoycwm8RfGBOtrbzPhz/NXAGPHILYMxWb3OZZvBXXnAcEAAAA=[0m[Pipeline] stage
+[8mha:////4Jc7p3Znkep0CvQv2zDotpvXWRSSw2NGNjyEX/3vYpNcAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUDLAgpq5RFk4QmhDSRv+Xn5R24kRcjTvQUokJD5ZtyXqvNxSR4UTsRGOx9RhrL7rQuymJgbi9BhpEQxdRE0YKVig7KDK2WqqiZGFRlsNKwtpiHSh6dAk2stEPXQaNrjwnnrajhNybOzwhkxM5aU7fMjJsb72JhD/OXwCMXYJ8t5/tMD+LD/s94rDCAAAA[0m[Pipeline] { (Build)
+[8mha:////4JdsdY563l3WW6KIhW/MtF1LmG5a9YlvFpPs52xgF9ikAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiGigQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGPIUG53n9qHN27Iu42+AAAA[0m[Pipeline] bat
+
+C:\ProgramData\Jenkins\.jenkins\workspace\FrontPipeline>npm run build 
+
+> angular.web@0.0.0 build C:\ProgramData\Jenkins\.jenkins\workspace\FrontPipeline
+> ng build
+
+Browserslist: caniuse-lite is outdated. Please run the following command: `npm update`
+Generating ES5 bundles for differential loading...
+ES5 bundle generation complete.
+
+chunk {polyfills} polyfills-es2015.js, polyfills-es2015.js.map (polyfills) 278 kB [initial] [rendered]
+chunk {polyfills-es5} polyfills-es5.js, polyfills-es5.js.map (polyfills-es5) 772 kB [initial] [rendered]
+chunk {vendor} vendor-es2015.js, vendor-es2015.js.map (vendor) 7.14 MB [initial] [rendered]
+chunk {vendor} vendor-es5.js, vendor-es5.js.map (vendor) 8.81 MB [initial] [rendered]
+chunk {runtime} runtime-es2015.js, runtime-es2015.js.map (runtime) 6.16 kB [entry] [rendered]
+chunk {runtime} runtime-es5.js, runtime-es5.js.map (runtime) 6.16 kB [entry] [rendered]
+chunk {main} main-es2015.js, main-es2015.js.map (main) 1.41 MB [initial] [rendered]
+chunk {main} main-es5.js, main-es5.js.map (main) 1.59 MB [initial] [rendered]
+chunk {scripts} scripts.js, scripts.js.map (scripts) 1.05 MB [entry] [rendered]
+chunk {styles} styles.css, styles.css.map (styles) 263 kB [initial] [rendered]
+Date: 2022-08-16T15:36:14.098Z - Hash: 9ef56e16f512900258fd - Time: 23550ms
+[8mha:////4CCSQkd8l8qRwb8fC40/XMa6t9lm1CMqJM5Dvk4qjRUDAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiGoSEqNJabniBiY1xYt0Z2yGpeBFf4w8EIlGxxWpnm3m+YJkiHDlabA11jlLjMPjeTgsHjt3F84Atn7FhSuwNSjNI1qaeUXI2MKcoYSFgZajxnBzZDGvRqruqvCJbnXKcvoOA0ukbPKAQkzmrmL8wRthce52Yfp6/AhhDyFBu95/avQHhgNoTvgAAAA==[0m[Pipeline] }
+[8mha:////4ImpGOnTRg5FC7IofPRQImjNFvuYA8iJFzWtCbAU6fcxAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiCgqEqNJabniBiY1xYt0Z2yGpeBFf4w8EIlGxxWpnm3m+YJkiHDlabA11jlLjMPjeTgsHjt3F84Atn7FhSuwNSjNI1qaeUXI2MKcoYSFgZajxnBzZDGvRqruqvCJbnXKcvoOA0ukbPKAQkzmrmL8wRthce52Yfp6/AhhDyFBu95/avQH+Ao9BvgAAAA==[0m[Pipeline] // stage
+[8mha:////4MJ5a0BbMbgZcG2se1PsPzAs1wvawegpFF02UqkScoMLAAAAph+LCAAAAAAAAP9tjTEOwjAQBM9BKWgpeYSDEB2iorXc8AITG+PEugv2haTiRXyNPxCIRMVWOyut5vmCMic4UPKycdgGzHWQXez91ORAqb1EGmRDZ1kTZopOajdosu44oyZ2MEcUsFCwdFhHygE9w0o15m6qaNBXJ07TtldQBHuDBwg1mdkk/sKYYH3tbSb8ef4KYOwYxI6h2G4+x/INK/7CYMEAAAA=[0m[Pipeline] stage
+[8mha:////4IgWR/fF+Qr56/hZS/quSWQ4+x5iXIducqhlRhai5PCyAAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycogUWBFT1ygLJwhNCGmj/8tPSjtxIq7GHWipxIQHy7ZkvdcbishwInaisdh6jLUXXejdlMRA3F4DDaKhi6gJIwUrlB0UGVstVVGysCjLYSVhbbEOFD26BBvZ6Icug0ZXnhNP21FC7s0dnpDJiZw0p28ZGba33kTCH+cvAMYuQX7Yzbafn8UHbGnGmsIAAAA=[0m[Pipeline] { (Test)
+[8mha:////4JOwThIUnZX72/pTGIDNfmSNzzXXBiNxEPoZoTQnF58iAAAAox+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIi0iIqWisNLzCJMXasO8d2cCpexNf4A4FIVGyx2tlmni9YxwBHDhqtot5QbA16N+p5YebQXx1ntHzBlimyU9io3HCnTgs2nBQsKUpYCdgoah1HQzrBVlh5l5WTpKtzCvN3EFCaboAHFGI2JxnSF6YAu9vYRaaf568AJp+grPefqv0bH7uiub4AAAA=[0m[Pipeline] bat
+
+C:\ProgramData\Jenkins\.jenkins\workspace\FrontPipeline>ng test 
+Your global Angular CLI version (12.2.12) is greater than your local version (8.3.14). The local Angular CLI version is used.
+
+To disable this warning use "ng config -g cli.warnings.versionMismatch false".
+[33m16 08 2022 10:36:24.661:WARN [karma]: [39mNo captured browser, open http://localhost:9876/
+[32m16 08 2022 10:36:24.684:INFO [karma-server]: [39mKarma v4.4.1 server started at http://0.0.0.0:9876/
+[32m16 08 2022 10:36:24.684:INFO [launcher]: [39mLaunching browsers Chrome with concurrency unlimited
+[32m16 08 2022 10:36:24.693:INFO [launcher]: [39mStarting browser Chrome
+[33m16 08 2022 10:36:28.834:WARN [karma]: [39mNo captured browser, open http://localhost:9876/
+[32m16 08 2022 10:36:28.948:INFO [Chrome 104.0.5112 (Windows 10.0.0)]: [39mConnected on socket qU-RHIie-dbANY_sAAAA with id 9956892
+Chrome 104.0.5112 (Windows 10.0.0): Executed 0 of 11 SUCCESS (0 secs / 0 secs)
+[1A[2KChrome 104.0.5112 (Windows 10.0.0): Executed 1 of 11 SUCCESS (0 secs / 0.025 secs)
+[1A[2KChrome 104.0.5112 (Windows 10.0.0): Executed 2 of 11 SUCCESS (0 secs / 0.032 secs)
+[1A[2KChrome 104.0.5112 (Windows 10.0.0): Executed 3 of 11 SUCCESS (0 secs / 0.037 secs)
+[1A[2KChrome 104.0.5112 (Windows 10.0.0): Executed 4 of 11 SUCCESS (0 secs / 0.037 secs)
+[1A[2KChrome 104.0.5112 (Windows 10.0.0): Executed 5 of 11 SUCCESS (0 secs / 0.037 secs)
+[1A[2KChrome 104.0.5112 (Windows 10.0.0): Executed 6 of 11 SUCCESS (0 secs / 0.037 secs)
+[1A[2KChrome 104.0.5112 (Windows 10.0.0): Executed 7 of 11 SUCCESS (0 secs / 0.037 secs)
+[1A[2KChrome 104.0.5112 (Windows 10.0.0): Executed 8 of 11 SUCCESS (0 secs / 0.043 secs)
+[1A[2KChrome 104.0.5112 (Windows 10.0.0): Executed 9 of 11 SUCCESS (0 secs / 0.044 secs)
+[1A[2KChrome 104.0.5112 (Windows 10.0.0): Executed 10 of 11 SUCCESS (0 secs / 0.044 secs)
+[1A[2KChrome 104.0.5112 (Windows 10.0.0): Executed 11 of 11 SUCCESS (0 secs / 0.049 secs)
+[1A[2KChrome 104.0.5112 (Windows 10.0.0): Executed 11 of 11 SUCCESS (0.068 secs / 0.049 secs)
+TOTAL: 11 SUCCESS
+TOTAL: 11 SUCCESS
+Resuming build at Tue Aug 16 17:00:02 COT 2022 after Jenkins restart
+Waiting to resume part of FrontPipeline #10: Esperando por un ejecutor
+Ready to run at Tue Aug 16 17:00:04 COT 2022
+[33m16 08 2022 16:59:15.037:WARN [Chrome 104.0.5112 (Windows 10.0.0)]: [39mDisconnected (0 times)Client disconnected from CONNECTED state (transport error)
+[1A[2KChrome 104.0.5112 (Windows 10.0.0) ERROR
+  DisconnectedClient disconnected from CONNECTED state (transport error)
+Chrome 104.0.5112 (Windows 10.0.0): Executed 11 of 11 SUCCESS (0.068 secs / 0.049 secs)
+Chrome 104.0.5112 (Windows 10.0.0) ERROR
+  DisconnectedClient disconnected from CONNECTED state (transport error)
+[91m16 08 2022 16:59:15.531:ERROR [launcher]: [39mChrome crashed.
+	[14056:13944:0816/103627.115:ERROR:device_event_log_impl.cc(214)] [10:36:27.115] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Uno de los dispositivos conectados al sistema no funciona. (0x1F)
+[14056:13944:0816/103627.117:ERROR:device_event_log_impl.cc(214)] [10:36:27.117] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Uno de los dispositivos conectados al sistema no funciona. (0x1F)
+[14056:13944:0816/143550.839:ERROR:device_event_log_impl.cc(214)] [14:35:50.839] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
+
+[91m16 08 2022 16:59:15.531:ERROR [launcher]: [39mChrome stdout: 
+[91m16 08 2022 16:59:15.531:ERROR [launcher]: [39mChrome stderr: [14056:13944:0816/103627.115:ERROR:device_event_log_impl.cc(214)] [10:36:27.115] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Uno de los dispositivos conectados al sistema no funciona. (0x1F)
+[14056:13944:0816/103627.117:ERROR:device_event_log_impl.cc(214)] [10:36:27.117] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Uno de los dispositivos conectados al sistema no funciona. (0x1F)
+[14056:13944:0816/143550.839:ERROR:device_event_log_impl.cc(214)] [14:35:50.839] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
+
+[32m16 08 2022 16:59:15.584:INFO [launcher]: [39mTrying to start Chrome again (1/2).
+[32m16 08 2022 16:59:16.822:INFO [Chrome 104.0.5112 (Windows 10.0.0)]: [39mConnected on socket 4-DFHaPOaDPLEthWAAAB with id 9956892
+[33m16 08 2022 16:59:19.929:WARN [Chrome 104.0.5112 (Windows 10.0.0)]: [39mDisconnected (0 times)Client disconnected from CONNECTED state (transport error)
+Chrome 104.0.5112 (Windows 10.0.0) ERROR
+  DisconnectedClient disconnected from CONNECTED state (transport error)
+
+Chrome 104.0.5112 (Windows 10.0.0) ERROR
+  DisconnectedClient disconnected from CONNECTED state (transport error)
+[91m16 08 2022 16:59:19.935:ERROR [launcher]: [39mChrome crashed.
+	[14032:1420:0816/165916.536:ERROR:gpu_process_host.cc(965)] GPU process exited unexpectedly: exit_code=34
+[14032:1420:0816/165918.563:ERROR:device_event_log_impl.cc(214)] [16:59:18.562] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Uno de los dispositivos conectados al sistema no funciona. (0x1F)
+[14032:1420:0816/165918.565:ERROR:device_event_log_impl.cc(214)] [16:59:18.564] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Uno de los dispositivos conectados al sistema no funciona. (0x1F)
+[14032:1420:0816/165918.569:ERROR:device_event_log_impl.cc(214)] [16:59:18.569] Bluetooth: bluetooth_adapter_winrt.cc:1164 RequestRadioAccessAsync failed: RadioAccessStatus::DeniedBySystemWill not be able to change radio power.
+
+[91m16 08 2022 16:59:19.935:ERROR [launcher]: [39mChrome stdout: 
+[91m16 08 2022 16:59:19.935:ERROR [launcher]: [39mChrome stderr: [14032:1420:0816/165916.536:ERROR:gpu_process_host.cc(965)] GPU process exited unexpectedly: exit_code=34
+[14032:1420:0816/165918.563:ERROR:device_event_log_impl.cc(214)] [16:59:18.562] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Uno de los dispositivos conectados al sistema no funciona. (0x1F)
+[14032:1420:0816/165918.565:ERROR:device_event_log_impl.cc(214)] [16:59:18.564] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Uno de los dispositivos conectados al sistema no funciona. (0x1F)
+[14032:1420:0816/165918.569:ERROR:device_event_log_impl.cc(214)] [16:59:18.569] Bluetooth: bluetooth_adapter_winrt.cc:1164 RequestRadioAccessAsync failed: RadioAccessStatus::DeniedBySystemWill not be able to change radio power.
+
+[32m16 08 2022 16:59:19.959:INFO [launcher]: [39mTrying to start Chrome again (2/2).
+[32m16 08 2022 16:59:20.690:INFO [Chrome 104.0.5112 (Windows 10.0.0)]: [39mConnected on socket zJcM83pmq_Ug0xTrAAAC with id 9956892
+Chrome 104.0.5112 (Windows 10.0.0): Executed 0 of 11 SUCCESS (0 secs / 0 secs)
+[91m16 08 2022 16:59:23.203:ERROR [launcher]: [39mChrome crashed.
+	
+[91m16 08 2022 16:59:23.203:ERROR [launcher]: [39mChrome stdout: 
+[91m16 08 2022 16:59:23.203:ERROR [launcher]: [39mChrome stderr: 
+[91m16 08 2022 16:59:23.226:ERROR [launcher]: [39mChrome failed 2 times (crashed). Giving up.
+Sending interrupt signal to process
+Cancelado por [8mha:////4OZSxxFneUjZdmZMVVSWCSejz2jML6Bow9AMSQ3FHPzqAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyxEgZu/dLi1CL9xJTczDwAuVSDeMAAAAA=[0mTommy Villagomez Borja
+[8mha:////4GzR248YHddWX47CkD09NPxoeCnWzXx8mc7KcmOBboFgAAABBB+LCAAAAAAAAP9djjFOw0AQRceOoEaUiI7aszYoOAK5AiGQohApXMCYZb32srPsjkloOATXgAaJK3AILkBHTUGDkSv4zf/Ne/rPn7AWPByTV9hI22obKo3OdKpfuCTfXhtaYuicI88YWLqA2rqOcX6+uDi9d9IbbdsZsdx4H71+5d8fMURTGHXeMGxOm/KuFKa0SizYa6sOVx626+4qkMWKbCAj8Y9lv3h6KR7dWwzxGawbaRXXg+4WHiDq8a1/+NHQvzAMiWKAlesHMkQ7DEXN7MKBELt71STJxnmSpWmSj5NsglZ5alGTaOhSnHiyPNdO9m+kyFLB0t/8AP8r+NYkAQAA[0mClick here to forcibly terminate running steps
+After 20s process did not stop
+[8mha:////4Feeb3IpdAiZYSKeVG/O1PO9HmqITZ1f8/K1GitngaZrAAAAox+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIioERUaS03vMDExjix7oztkFS8iK/xBwKRqNhitbPNPF+wTBGOHC22hjpHqXEYfG+nhQPH7uJ5wJbP2DAl9galGSRrU88oORuYU5SwELAy1HhOjmyGtWjVXVVeka1OOU7fQUDp9A0eUIjJnFXMXxgjbK69Tkw/z18BjCFkKHf7T23f36y8/b4AAAA=[0m[Pipeline] }
+[8mha:////4FARwf77axRLxhSgRxMQDinLtSDsEUwsi9An4n6d13AjAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOKCEB2iSmu54QUmNsaJdWdsh6TiRXyNPxCIRMUWq51t5vmCZYpw5GixNdQ5So3D4Hs7LRw4dhfPA7Z8xoYpsTcozSBZm3pGydnAnKKEhYCVocZzcmQzrEWr7qryimx1ynH6DgJKp2/wgEJM5qxi/sIYYXPtdWL6ef4KYAwhQ7nbf2r7BvGsvpe+AAAA[0m[Pipeline] // stage
+[8mha:////4C6PK1h+rZ0zjpvm9Wil7KaPeIF0WmUeL5h+sNXP35XFAAAAox+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMKREFSIitZKwwtMYowT6y7YF5KKF/E1/kBEJCq22plmXm8sU8SRo1ONpdZTqrzqQu+mpwaO7TXwoBq+qIopcbCqtEPJtT3NWLJYzMtyLDRWlqrAyZMTrHVjHqYIhlxxlji5g0bu6zueyPRUFhPlC2PE5tbXienX+RvA2HWCfLsXZLsPW9YxnL0AAAA=[0m[Pipeline] }
+[8mha:////4I82hJd/Er83yh0/vtLLe8du6EFQsIQz9HOusKYqhAypAAAApB+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMKRQKJBVLRWGl5gEmOcWHfBvpBUvIiv8QciIlGx1c4083pjmSKOHJ1qLLWeUuVVF3o3PTVwbK+BB9XwRVVMiYNVpR1Kru1pxpLFYl6WY6GxslQFTp6cYK0b8zBFMOSKs8TJHTRyX9/xRKanspgoXxgjNre+Tky/zt8Axq4T5Nu9INt9ACg59UW9AAAA[0m[Pipeline] // node
+[8mha:////4Gp8zXkwSjcfAV5oFCLlW9t8/f3QAVz9vIuu3gVDtQMlAAAAox+LCAAAAAAAAP9tjbEOgjAURS8YB1dHP6IkLA7GybVh8Qsq1Fpo3sP2IUx+kb/mP0gkcfJO95zlvN5Yp4gjR6daS52nVHvVh8HNT40cu2vgUbV8UTVT4mBVZceKG3tasGKxWJblWGlsLNWBkycn2OrWPEwRDLniLHF2B43cN3c8kem5LCbKF6aI3W1oEtOv8zeAqe8FebkXZOUHDiCSD70AAAA=[0m[Pipeline] End of Pipeline
+Finished: ABORTED

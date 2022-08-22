@@ -1,0 +1,17 @@
+commit fbbe1edd817b13c087b0e26371aa8b79e3084c48
+tree 2015b3d3518350a70955b53495e15ce8162ac0a5
+parent db7928e217102e99626b4a809eaf0e62a59b8e40
+author Tvillago <tvillago@espol.edu.ec> 2022-08-11 23:14:20 -0500
+committer Tvillago <tvillago@espol.edu.ec> 2022-08-11 23:14:20 -0500
+
+    test
+
+
+:000000 100644 0000000000000000000000000000000000000000 a643d215d2b90d8a3af016ebd759c78affe71ee7 A	.gitignore
+:100644 100644 edc16c3b519a45534c09ad573bb7541754cff28b 33eadbe3f623c9a8e6fd14b44807a4982adc7cb6 M	package-lock.json
+:100644 100644 ef9c43ff0968f41800c65c9da4d6bb22d0f5988f bd244f78a1239452feef20229d29f8e51bf182f7 M	src/app/asignar-nuevo-proceso/asignar-nuevo-proceso.component.spec.ts
+:100644 100644 74cf4a8e1f0bff30a9a285d853e07a5d94fe6513 5f123679edfdace0ca21d9831ba4bb2accf77030 M	src/app/form-procesos/form-procesos.component.spec.ts
+:100644 100644 afc20dc9abf6f8832dc536c1e8c259778966ed92 750e810b020cd45c47b115e4ae75dc1ca58d9b0a M	src/app/timeline/timeline.component.spec.ts
+:100644 100644 9219c63e18a9e3277fde000ccf95b981efa2fbef d0f710ae0a218a3cb86d87b08835ad39094f1fd2 M	src/app/usuarios-asignacion-proceso/usuarios-asignacion-proceso.component.spec.ts
+:100644 100644 8a0d957fc1879960452da7ebbf55d469e11809db be8aeec37dc7b8281038da55a5b4a32410059315 M	src/app/usuarios-asignados/usuarios-asignados.component.spec.ts
+:100644 100644 5cb28001508756a965d2deaecb0de3bd01239273 4a269e39afaa7ae59336dde8da92776509bb895c M	src/app/usuarios-seguidores/usuarios-seguidores.component.spec.ts

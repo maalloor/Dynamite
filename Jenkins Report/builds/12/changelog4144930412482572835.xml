@@ -1,0 +1,21 @@
+commit 7991f9b07d45c8fe2bc231593fe05fc8ecbd3a0f
+tree 6d3ce3f16552578d8a80f74d31b6444f6375269e
+parent 0ef339a17ab9712b1528fe6738e42a53c64285a5
+author Noelia Alejandra Intriago Sánchez <noinsanc@espol.edu.ec> 2022-08-19 19:06:18 -0500
+committer Noelia Alejandra Intriago Sánchez <noinsanc@espol.edu.ec> 2022-08-19 19:06:18 -0500
+
+    Coding standards with tslint to agregar-requerimiento and requerimientos
+
+
+:100644 100644 44c36e46f0621005de8e3b128ef8f9bb3feb9bd9 f211d0e8e7d8588c834ad0a5681d136725b62d79 M	src/app/agregar-requerimiento/agregar-requerimiento.component.ts
+:100644 100644 89ecc57adf4b4f81883da87ac72e9cb19b26f574 04ecb933279fea3e40358cd2e9d11ad342cee172 M	src/app/requerimientos/requerimientos.component.ts
+commit c1c978358255af44a4bd60a54c1ef4761a615289
+tree ec11f9bb3751076300ab3a919c0db351c703ce7d
+parent 8843c0537d8a68177ddd9517e42b48a42342fb05
+author iliesbol <iliesbol@espol.edu.ec> 2022-08-17 14:15:52 -0500
+committer iliesbol <iliesbol@espol.edu.ec> 2022-08-17 14:15:52 -0500
+
+    Cambios
+
+
+:100644 100644 89ecc57adf4b4f81883da87ac72e9cb19b26f574 b0d827e86615d9285a25b7e32e65aed780716655 M	src/app/requerimientos/requerimientos.component.ts

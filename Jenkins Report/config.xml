@@ -1,0 +1,37 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<flow-definition plugin="workflow-job@1207.ve6191ff089f8">
+  <actions/>
+  <description></description>
+  <keepDependencies>false</keepDependencies>
+  <properties>
+    <com.coravy.hudson.plugins.github.GithubProjectProperty plugin="github@1.34.5">
+      <projectUrl>https://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@github.com/Tvillago/FrontBroadnet/</projectUrl>
+      <displayName></displayName>
+    </com.coravy.hudson.plugins.github.GithubProjectProperty>
+  </properties>
+  <definition class="org.jenkinsci.plugins.workflow.cps.CpsFlowDefinition" plugin="workflow-cps@2759.v87459c4eea_ca_">
+    <script>node {
+    stage(&apos;Checkout SCM&apos;) {
+        git branch: &apos;main&apos;, url: &apos;https://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@github.com/Tvillago/FrontBroadnet&apos;
+    }
+    
+    stage(&apos;install node modules&apos;){
+        bat &apos;npm i&apos;
+    }
+
+    stage(&apos;Build&apos;){
+        bat &apos;npm run build&apos;
+    } 
+    
+    stage(&apos;Test&apos;){
+        bat &apos;ng test&apos;
+    }
+
+
+}
+archiveArtifacts artifacts: &apos;\&apos;**/*.jar\&apos;&apos;, fingerprint: true, followSymlinks: false, onlyIfSuccessful: true</script>
+    <sandbox>true</sandbox>
+  </definition>
+  <triggers/>
+  <disabled>false</disabled>
+</flow-definition>

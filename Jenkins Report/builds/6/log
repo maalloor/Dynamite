@@ -1,0 +1,119 @@
+Lanzada por el usuario [8mha:////4OZSxxFneUjZdmZMVVSWCSejz2jML6Bow9AMSQ3FHPzqAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyxEgZu/dLi1CL9xJTczDwAuVSDeMAAAAA=[0mTommy Villagomez Borja
+[8mha:////4FzsEvFoL63Kbg0x2sEtWuyLFI2Y6UkuaVFrpU3PB1/jAAAAoh+LCAAAAAAAAP9tjTEOwjAQBM8BClpKHuFItIiK1krDC0x8GCfWnbEdkooX8TX+gCESFVvtrLSa5wtWKcKBo5UdUu8otU4GP9jS5Mixv3geZcdn2TIl9igbHBs2eJyx4YwwR1SwULBGaj0nRzbDRnX6rmuvydanHMu2V1A5c4MHCFXMWcf8hSnC9jqYxPTz/BXAFEIGsfuclm8zQVqFvQAAAA==[0m[Pipeline] Start of Pipeline
+[8mha:////4M8ARJlTfRsCkJzig+Hek+e2L+e+tRka7eRK61B6aX1GAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycohUghExsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jduZBmjwAAAAA==[0m[Pipeline] node
+Running on [8mha:////4CNbLWs207Thwm9lSW/TGoYzLyb4B92mXLIPTk8H6YP5AAAAoR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyOEgZR/eT83ILSktQifY2k0sycEt3MPE19AG6eN5/KAAAA[0mJenkins  in C:\ProgramData\Jenkins\.jenkins\workspace\FrontPipeline
+[8mha:////4LL0yBkK3keFE4sjAUrrCtXdHt2MN070h7b4E8CViDFfAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gA0xsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jfoP95RwAAAAA==[0m[Pipeline] {
+[8mha:////4MtNGoHIJo7PIK/NQIjwkGcf7j81MkhlVNUykfkpuJ89AAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gQkxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jc09154wAAAAA==[0m[Pipeline] stage
+[8mha:////4EG7K8/XUKOA4f8NBi5XjGRoJgyuuS6I9tLfJgEPimzlAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0ggUxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jek7ggRwAAAAA==[0m[Pipeline] { (Checkout SCM)
+[8mha:////4NUuE+y/rhwVW7AO+6N1TEBCXQCAM6Gv/DakZUEO0KRkAAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTbaWGsbAmNJ0AWEZb8zwLrbuWJvJp3kLiJlZNMMm+a93rDOic4UbLcG+wdZu14DKOti0+U+lugiXu6ck2YKRguzSSpM+cFJRUDS1gDKwEbgzpQdmgLbIVXD9UGhba9lFS/o4DGdQM8gYlqLiqVL8wJdvexy4Q/z18BzLEA29ce4gfg7KmOvAAAAA==[0m[Pipeline] git
+The recommended git tool is: NONE
+No credentials specified
+ > C:\Program Files\Git\bin\git.exe rev-parse --resolve-git-dir C:\ProgramData\Jenkins\.jenkins\workspace\FrontPipeline\.git # timeout=10
+Fetching changes from the remote Git repository
+ > C:\Program Files\Git\bin\git.exe config remote.origin.url https://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@github.com/Tvillago/FrontBroadnet # timeout=10
+Fetching upstream changes from https://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@github.com/Tvillago/FrontBroadnet
+ > C:\Program Files\Git\bin\git.exe --version # timeout=10
+ > git --version # 'git version 2.32.0.windows.2'
+ > C:\Program Files\Git\bin\git.exe fetch --tags --force --progress -- https://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@github.com/Tvillago/FrontBroadnet +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > C:\Program Files\Git\bin\git.exe rev-parse "refs/remotes/origin/main^{commit}" # timeout=10
+Checking out Revision fbbe1edd817b13c087b0e26371aa8b79e3084c48 (refs/remotes/origin/main)
+ > C:\Program Files\Git\bin\git.exe config core.sparsecheckout # timeout=10
+ > C:\Program Files\Git\bin\git.exe checkout -f fbbe1edd817b13c087b0e26371aa8b79e3084c48 # timeout=10
+ > C:\Program Files\Git\bin\git.exe branch -a -v --no-abbrev # timeout=10
+ > C:\Program Files\Git\bin\git.exe branch -D main # timeout=10
+ > C:\Program Files\Git\bin\git.exe checkout -b main fbbe1edd817b13c087b0e26371aa8b79e3084c48 # timeout=10
+Commit message: "test"
+ > C:\Program Files\Git\bin\git.exe rev-list --no-walk db7928e217102e99626b4a809eaf0e62a59b8e40 # timeout=10
+[8mha:////4EnyjDnFjrtSflzpIf3PW1ORUu6yjbgYS9vccwLOMydMAAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTbGRNjZUtoPAGyiLDkfxZYdytP5NW8g8RNrJxkknnTvNcb1jnBiZLl3mDvMGvHYxhtXXyi1N8CTdzTlWvCTMFwaSZJnTkvKKkYWMIaWAnYGNSBskNbYCu8eqg2KLTtpaT6HQU0rhvgCUxUc1GpfGFOsLuPXSb8ef4KYI6xADvU7j9Dg2gqvAAAAA==[0m[Pipeline] }
+[8mha:////4NxlcdaPTjkaAxCa3mGurs1Zf1/qnIe/hw3lpbVWoHihAAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQRbWRhjZUtoPAGyiLDkfxZYdytP5NW8g8RNrJxkknnTvNcb1jnBiZLl3mDvMGvHYxhtXXyi1N8CTdzTlWvCTMFwaSZJnTkvKKkYWMIaWAnYGNSBskNbYCu8eqg2KLTtpaT6HQU0rhvgCUxUc1GpfGFOsLuPXSb8ef4KYI6xADvU7j9J+wGOvAAAAA==[0m[Pipeline] // stage
+[8mha:////4ICW/nrOSMYNuVKJfSqumnbuex1Z735RdTW29rmdkpoLAAAAph+LCAAAAAAAAP9tjTEOwjAQBM9BKWgpeYQDEh2iorXc8AITG+PEugv2haTiRXyNPxCIRMVWOyut5vmCMic4UPKycdgGzHWQXez91ORAqb1EGmRDZ1kTZopOajdosu44oyZ2MEcUsFCwdFhHygE9w0o15m6qaNBXJ07TtldQBHuDBwg1mdkk/sKYYH3tbSb8ef4KYOwYxI6h2G4+x/INtuQqUcEAAAA=[0m[Pipeline] stage
+[8mha:////4MrX3qo9p322Vx/mPrEuvcRKAjLtpdEXyHiBsE3VPkixAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+DOrAycoiUzoiJNerCCUITQtLo/zZJSSdOxNW4Ay2VmPBg2Zas93pDGQOcKBjuNHYWY2t570czJ54pdDdPmTu68pYwkte80bkhpc9rbShpWFUw2AjYamw9RYsmwU44+ZCVl2iqSwrzdhTArBrgCYWYyUmG9C1TgP19VJHwx/kLgKlPwOrDYvXyLD8BobDcwgAAAA==[0m[Pipeline] { (install node modules)
+[8mha:////4JXC43tVPtqZfUGCQh4I5PWDG7/m1txgwUejKhq0CBC6AAAAox+LCAAAAAAAAP9tjTESwiAURH/iWNhaeggysXWsbBkaT4AJIoT5nwCRVJ7Iq3kH0cxYucXOvm3e8wXrGOBIQTOrcDAYO8O8m3RZLFMYro4ys3RhHWEkp5hQWVCvTgsKSgqWVDWsOGwUdo6iQZ1gy628y8ZJ1M05hfIdONSmH+EBFS/mJEP6whxgd5v6SPjz/BXA7BPUbfupvX8DpQJrNb4AAAA=[0m[Pipeline] bat
+
+C:\ProgramData\Jenkins\.jenkins\workspace\FrontPipeline>npm i 
+
+> node-sass@4.14.1 install C:\ProgramData\Jenkins\.jenkins\workspace\FrontPipeline\node_modules\node-sass
+> node scripts/install.js
+
+Downloading binary from https://github.com/sass/node-sass/releases/download/v4.14.1/win32-x64-83_binding.node
+Download complete
+Binary saved to C:\ProgramData\Jenkins\.jenkins\workspace\FrontPipeline\node_modules\node-sass\vendor\win32-x64-83\binding.node
+Caching binary to C:\WINDOWS\system32\config\systemprofile\AppData\Roaming\npm-cache\node-sass\4.14.1\win32-x64-83_binding.node
+
+> core-js@3.6.4 postinstall C:\ProgramData\Jenkins\.jenkins\workspace\FrontPipeline\node_modules\@angular-devkit\build-angular\node_modules\core-js
+> node -e "try{require('./postinstall')}catch(e){}"
+
+
+> core-js@3.24.1 postinstall C:\ProgramData\Jenkins\.jenkins\workspace\FrontPipeline\node_modules\core-js
+> node -e "try{require('./postinstall')}catch(e){}"
+
+
+> @angular/cli@8.3.29 postinstall C:\ProgramData\Jenkins\.jenkins\workspace\FrontPipeline\node_modules\@angular\cli
+> node ./bin/postinstall/script.js
+
+
+> node-sass@4.14.1 postinstall C:\ProgramData\Jenkins\.jenkins\workspace\FrontPipeline\node_modules\node-sass
+> node scripts/build.js
+
+Binary found at C:\ProgramData\Jenkins\.jenkins\workspace\FrontPipeline\node_modules\node-sass\vendor\win32-x64-83\binding.node
+Testing binary
+Binary is fine
+npm WARN angular-material-data-table@0.10.10 requires a peer of angular@^1.4.0 but none is installed. You must install peer dependencies yourself.
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\webpack-dev-server\node_modules\fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\watchpack-chokidar2\node_modules\fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\@angular\compiler-cli\node_modules\fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.3.2 (node_modules\fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.3.2: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
+added 373 packages from 144 contributors, removed 199 packages, updated 375 packages and audited 1500 packages in 37.313s
+
+83 packages are looking for funding
+  run `npm fund` for details
+
+found 49 vulnerabilities (3 low, 16 moderate, 28 high, 2 critical)
+  run `npm audit fix` to fix them, or `npm audit` for details
+[8mha:////4IhnAJdx4jaIC/Vj8wBQ/0ayTRvOASUZvfv/a77wsAqnAAAAox+LCAAAAAAAAP9tjTESwiAURH/iWNhaeggyGUvHypah8QSYIEKY/wkQSeWJvJp3EM2MlVvs7NvmPV+wjgGOFDSzCgeDsTPMu0mXxTKF4eooM0sX1hFGcooJlQX16rSgoKRgSVXDisNGYecoGtQJttzKu2ycRN2cUyjfgUNt+hEeUPFiTjKkL8wBdrepj4Q/z18BzN4nqNv9p9o3geV5574AAAA=[0m[Pipeline] }
+[8mha:////4F4AszNVQ/wYVNsF19Jj68Qe+nVHYCCaYoCDTYRF/CYAAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOICEh2iSmu54QUmNsaJdWdsh6TiRXyNPxCIRMUWq51t5vmCZYpw5GixNdQ5So3D4Hs7LRw4dhfPA7Z8xoYpsTcozSBZm3pGydnAnKKEhYCVocZzcmQzrEWr7qryimx1ynH6DgJKp2/wgEJM5qxi/sIYYXPtdWL6ef4KYAwhQ7nbf2r7Bq/le42+AAAA[0m[Pipeline] // stage
+[8mha:////4LagSbsGt9EdDa9pEbn25yFCz+9DWufrUS1UqrHGLoL0AAAAph+LCAAAAAAAAP9tjTEOwjAQBM9BKWgpeYQjJKgQFa3lhheY2Bgn1l2wLyQVL+Jr/IFAJCq22llpNc8XlDnBgZKXjcM2YK6D7GLvpyYHSu0l0iAbOsuaMFN0UrtBk3XHGTWxgzmigIWCpcM6Ug7oGVaqMXdTRYO+OnGatr2CItgbPECoycwm8RfGBOtrbzPhz/NXAGPHILYMxWb3OZZvBXXnAcEAAAA=[0m[Pipeline] stage
+[8mha:////4Jc7p3Znkep0CvQv2zDotpvXWRSSw2NGNjyEX/3vYpNcAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUDLAgpq5RFk4QmhDSRv+Xn5R24kRcjTvQUokJD5ZtyXqvNxSR4UTsRGOx9RhrL7rQuymJgbi9BhpEQxdRE0YKVig7KDK2WqqiZGFRlsNKwtpiHSh6dAk2stEPXQaNrjwnnrajhNybOzwhkxM5aU7fMjJsb72JhD/OXwCMXYJ8t5/tMD+LD/s94rDCAAAA[0m[Pipeline] { (Build)
+[8mha:////4JdsdY563l3WW6KIhW/MtF1LmG5a9YlvFpPs52xgF9ikAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiGigQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGPIUG53n9qHN27Iu42+AAAA[0m[Pipeline] bat
+
+C:\ProgramData\Jenkins\.jenkins\workspace\FrontPipeline>npm run build 
+
+> angular.web@0.0.0 build C:\ProgramData\Jenkins\.jenkins\workspace\FrontPipeline
+> ng build
+
+
+ERROR in [96m../node_modules/@casl/ability/dist/types/index.d.ts[0m:[93m9[0m:[93m1[0m - [91merror[0m[90m TS1128: [0mDeclaration or statement expected.
+
+[7m9[0m export type { Generics, RuleOf, RawRuleOf, UpdateEvent, EventHandler, Unsubscribe } from './RuleIndex';
+[7m [0m [91m~~~~~~[0m
+[96m../node_modules/@casl/ability/dist/types/index.d.ts[0m:[93m9[0m:[93m13[0m - [91merror[0m[90m TS1005: [0m';' expected.
+
+[7m9[0m export type { Generics, RuleOf, RawRuleOf, UpdateEvent, EventHandler, Unsubscribe } from './RuleIndex';
+[7m [0m [91m            ~[0m
+[96m../node_modules/@casl/ability/dist/types/index.d.ts[0m:[93m9[0m:[93m90[0m - [91merror[0m[90m TS1005: [0m';' expected.
+
+[7m9[0m export type { Generics, RuleOf, RawRuleOf, UpdateEvent, EventHandler, Unsubscribe } from './RuleIndex';
+[7m [0m [91m                                                                                         ~~~~~~~~~~~~~[0m
+
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! angular.web@0.0.0 build: `ng build`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the angular.web@0.0.0 build script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     C:\WINDOWS\system32\config\systemprofile\AppData\Roaming\npm-cache\_logs\2022-08-12T04_15_50_709Z-debug.log
+[8mha:////4CCSQkd8l8qRwb8fC40/XMa6t9lm1CMqJM5Dvk4qjRUDAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiGoSEqNJabniBiY1xYt0Z2yGpeBFf4w8EIlGxxWpnm3m+YJkiHDlabA11jlLjMPjeTgsHjt3F84Atn7FhSuwNSjNI1qaeUXI2MKcoYSFgZajxnBzZDGvRqruqvCJbnXKcvoOA0ukbPKAQkzmrmL8wRthce52Yfp6/AhhDyFBu95/avQHhgNoTvgAAAA==[0m[Pipeline] }
+[8mha:////4ImpGOnTRg5FC7IofPRQImjNFvuYA8iJFzWtCbAU6fcxAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiCgqEqNJabniBiY1xYt0Z2yGpeBFf4w8EIlGxxWpnm3m+YJkiHDlabA11jlLjMPjeTgsHjt3F84Atn7FhSuwNSjNI1qaeUXI2MKcoYSFgZajxnBzZDGvRqruqvCJbnXKcvoOA0ukbPKAQkzmrmL8wRthce52Yfp6/AhhDyFBu95/avQH+Ao9BvgAAAA==[0m[Pipeline] // stage
+[8mha:////4N64q3n6P1/PFMBcH2gmB6IcDDtCsdzvrJJoWuG2uNrPAAAAox+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMJBiA5R0VppeIFJjHFi3QX7QlLxIr7GH4iIRMVWO9PM641lijhydKqx1HpKlVdd6N301MCxvQYeVMMXVTElDlaVdii5tqcZSxaLeVmOhcbKUhU4eXKCtW7MwxTBkCvOEid30Mh9fccTmZ7KYqJ8YYzY3Po6Mf06fwMYu06Q77aCbP8BK1nRVL0AAAA=[0m[Pipeline] }
+[8mha:////4DZdQT0dsN05N1F5IRcJonb8vsX1HM576jY+0JSnt7/VAAAAoh+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMIRUCIqWisNLzCJMU6su2BfSCpexNf4AxGRqNhqZ5p5vbFMEUeOTjWWWk+p8qoLvZueGji218CDaviiKqbEwarSDiXX9jRjyWIxL8ux0FhZqgInT06w1o15mCIYcsVZ4uQOGrmv73gi01NZTJQvjBGbW18npl/nbwBj1wny3VaQ7T845dX3vQAAAA==[0m[Pipeline] // node
+[8mha:////4PrIwutzivj02/bRVa94pcSBekfttX58CwfVhbFKbb65AAAAoh+LCAAAAAAAAP9tjbEOgjAURS8YB1dHP6IkrMbJtWHxCyrUWmjeg/YhTH6Rv+Y/SCRx8k73nOW83timiBNHp1pLnadUe9WH0S1PTRy7W+BJtXxVNVPiYFVlp4obe16xYrFYl+XYaOws1YGTJyfY69Y8TBEMueIicXFHjdw3A57I9FIWE+ULc8ThPjaJ6df5G8Dc94K8LAVZ+QF+r3LHvQAAAA==[0m[Pipeline] End of Pipeline
+ERROR: script returned exit code 1
+Finished: FAILURE

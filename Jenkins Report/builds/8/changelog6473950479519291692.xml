@@ -1,0 +1,16 @@
+commit 0ef339a17ab9712b1528fe6738e42a53c64285a5
+tree b6f0e83d424af3e07251072c2a6b908909296046
+parent a34bf9ac6af4d88f63b106fcfffd9dee75d11d1b
+author Noelia Alejandra Intriago Sánchez <noinsanc@espol.edu.ec> 2022-08-15 21:13:23 -0500
+committer Noelia Alejandra Intriago Sánchez <noinsanc@espol.edu.ec> 2022-08-15 21:13:23 -0500
+
+    Updating repo with Broadnet-Octpob
+
+
+:100644 100644 e39ae52c5657f049fa4b2d4161204b498fec61dd 44c36e46f0621005de8e3b128ef8f9bb3feb9bd9 M	src/app/agregar-requerimiento/agregar-requerimiento.component.ts
+:100644 100644 9393f195fd2339da5fecd7215cf11e663d90e53f 8daafbe12e7683f682a3082bc88793c1d8879abe M	src/app/icons/icons.module.ts
+:000000 100644 0000000000000000000000000000000000000000 0c0a882e7844fae0303a417a04be2d1a0a7a8a71 A	src/app/requerimientos/requerimientos.component.css
+:100644 100644 e20a77d3184fa26c9e87c7c558a15bdb3608e94a 6b62d32d9f237272dd3d1ae27cfb4e3707591047 M	src/app/requerimientos/requerimientos.component.html
+:100644 100644 48bf2f6774569c32dfe8f092a1264fb135e1ab45 89ecc57adf4b4f81883da87ac72e9cb19b26f574 M	src/app/requerimientos/requerimientos.component.ts
+:100644 100644 f370bb20b5ecdac8b251a336b735a78ece40c407 9d8996a930c3ad01981fec26f216a43380215d5f M	src/models/proceso.ts
+:100644 100644 cf2801f89766239568ece07fd3acf14f2f0c7db0 834a31d0979e95158f186403f76e800f77cd3fdb M	src/services/api-procesos.service.ts
